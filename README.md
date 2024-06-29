@@ -27,7 +27,7 @@ To get started with the project, follow these steps:
 
 ## Usage
 
-    ```sh
+ ```sh
     npm start
 
 This will start the development server and open the application in your default browser. The page will automatically reload if you make changes to the code.
